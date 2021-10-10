@@ -19,7 +19,7 @@ var_x <- 20
 
 var_y <- 35
 
-sum_vars <- var_x /var_y
+sum_vars <- var_x / var_y
 
 ```
 
