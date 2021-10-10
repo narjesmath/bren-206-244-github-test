@@ -9,15 +9,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Type your name (or anything else) HERE: 
 
+Narjes Mathlouthi
+
 Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 10
+var_x <- 20
 
-red <- 15
+var_y <- 35
 
-purple <- blue/red
+sum_vars <- var_x /var_y
 
 ```
 
